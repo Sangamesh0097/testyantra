@@ -7,6 +7,8 @@ public class TestCase3Test {
 	@Test
 	public void testYantra1Test() {
 		System.out.println("TestYantra 1");
+		System.out.println("TestYantra 1");
+		
 	}
 	@Test
 	public void testYantra2Test() {
