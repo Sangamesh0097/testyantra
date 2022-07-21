@@ -17,6 +17,7 @@ public class BrowserTest {
 	    
 		
 	    //Execute chrome browser
+		//verify the broswer
 		if (BROWSER.equalsIgnoreCase("chrome")) {
 			driver=WebDriverManager.chromedriver().create();
 		}
