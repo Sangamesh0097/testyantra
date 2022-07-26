@@ -17,16 +17,5 @@ public class TestCase2Test {
 	public void tigerTest() {
 		System.out.println("Tiger is the king of forest");
 	}
-	@Test(priority=2)
-	public void monkeyTest() {
-		System.out.println("Monkey is the king of forest");
-	}
-	@Test(priority = 0)
-	public void dogTest() {
-		System.out.println("Dog is the king of forest");
-	}
-	@Test(priority=1)
-	public void rabbitTest() {
-		System.out.println("Rabbit is the king of forest");
-	}
+	
 }
